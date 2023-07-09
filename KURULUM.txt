@@ -1,0 +1,21 @@
+pkg update && pkg upgrade
+🥷💞                   🥷💞
+pip3 install colorama
+🥷💞                   🥷💞
+git clone https://github.com/qwaxre/telegrampy-bot
+🥷💞                   🥷💞
+cd telegrampy-bot 
+🥷💞                   🥷💞
+pip install -r requirements.txt 
+🥷💞                   🥷💞
+python3 once.py
+🥷💞                   🥷💞
+ls
+🥷💞                   🥷💞
+cd telegrampy-bot 
+🥷💞                   🥷💞
+pip install -r requirements.txt
+🥷💞                   🥷💞
+python sonra.py
+🥷💞                   🥷💞
+By: @cocukburosu 💞🥷
